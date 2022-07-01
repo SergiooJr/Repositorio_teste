@@ -1,2 +1,4 @@
-# Repositorio_teste
- testando o GitHub Desktop
+# Repositório teste
+ Testando o GitHub Desktop
+
+ Repositório criado durante uma aula do curso em vídeo
