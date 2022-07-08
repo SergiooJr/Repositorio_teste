@@ -71,9 +71,9 @@ else:
 
 # Emojis
 
-Olá pequeno Gafanhoto 🖖 🤙 para achar todos os códigos dos emojis basta [clicar aqui](https//github.com/ikatyang), vá nos repositórios e procure o "emoji-cheat-sheet"
+Olá pequeno Gafanhoto 🖖 🤙 para achar todos os códigos dos emojis basta [clicar aqui](https://github.com/ikatyang), vá nos repositórios e procure o "emoji-cheat-sheet"
 
-Nos título de issues não é possivel adicionar emojis dessa forma, mas existe um site onde podemos copiar e colar, [clique aqui](https//emojipedia.org) para ir ao site.
+Nos título de issues não é possivel adicionar emojis dessa forma, mas existe um site onde podemos copiar e colar, [clique aqui](https://emojipedia.org) para ir ao site.
 
 # Citações e marcações
 
